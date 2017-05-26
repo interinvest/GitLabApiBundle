@@ -1,5 +1,5 @@
 {
-    "name": "zeichen32/gitlabapibundle",
+    "name": "interinvest/gitlabapibundle",
     "description": "Symfony2 Bundle to include the gitlab api.",
     "type": "symfony-bundle",
     "keywords": ["gitlab", "api"],
